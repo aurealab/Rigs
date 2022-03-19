@@ -1,2 +1,2 @@
 # Rigs
-Python scripts to work make mathematical computations on rigs
+Python scripts to make mathematical computations on rigs
